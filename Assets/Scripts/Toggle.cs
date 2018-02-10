@@ -13,15 +13,15 @@ public class Toggle : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if ( (button.name))
-        {
-            foreach (GameObject block in blockGroup)
-                block.SetActive(false);
-        }
-        else
-        {
-            foreach (GameObject block in blockGroup)
-                block.SetActive(true);
-        }
+        //if ( (button.name))
+        //{
+        //    foreach (GameObject block in blockGroup)
+        //        block.SetActive(false);
+        //}
+        //else
+        //{
+        //    foreach (GameObject block in blockGroup)
+        //        block.SetActive(true);
+        //}
     }
 }
