@@ -1,0 +1,9 @@
+v0.01 (Hiromi)
+Button scripting now works individually. Buttons do not yet lock out other buttons.
+
+v0.01b (Brandon)
+Upgraded Unity to 2017.3.0p3 and other good stuff
+
+v0.01a (Hiromi)
+Created level geometry and prototype UI.
+(Also, a button script that doesn't work.)
