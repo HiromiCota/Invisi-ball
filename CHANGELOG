@@ -1,0 +1,2 @@
+v0.01
+Button scripting now works individually. Buttons do not yet lock out other buttons.
