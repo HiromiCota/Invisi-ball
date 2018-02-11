@@ -1,2 +1,5 @@
 v0.01 (Hiromi)
 Button scripting now works individually. Buttons do not yet lock out other buttons.
+
+v0.01b (Brandon)
+Upgraded Unity to 2017.3.0p3
