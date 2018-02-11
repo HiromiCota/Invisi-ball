@@ -1,3 +1,9 @@
+v0.02 (Hiromi)
+Full suite of buttons added. 
+Block groups added.
+Buttons still don't lock out other buttons yet.
+Bug: Blocks currently trap the ball if you're not fast. Will fix next iteration.
+
 v0.01 (Hiromi)
 Button scripting now works individually. Buttons do not yet lock out other buttons.
 
