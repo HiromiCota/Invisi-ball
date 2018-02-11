@@ -1,5 +1,7 @@
 v0.03 (Hiromi)
-Buttons now lock other buttons.
+Buttons now lock other buttons 
+i.e. First button down fires; ties go to [in order] mouse, red, green, and blue.
+(Yellow never wins ties.)
 Buttons respond to keyboard, mouse, and gamepad input.
 Buttons *probably* respond to touch input, but that's not been tested.
 
