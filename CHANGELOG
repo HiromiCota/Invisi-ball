@@ -1,3 +1,8 @@
+v0.06 (Hiromi)
+Emitter is even better! Ties into the ball's velocity, so that it shuts off 
+ when it goes too slowly and throws more sparks when it's moving swiftly
+Collisions with blocks and the floor create collision events that get processed
+
 v0.05 (Hiromi)
 Emitter works as intended now.
 Ball now invisible. Move the ball to get a basic idea of where you are.
